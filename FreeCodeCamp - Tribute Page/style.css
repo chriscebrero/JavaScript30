@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+h1 {
+  text-align: center;
+  padding-top: 30px;
+}
+h2 {
+  text-align: center;
+}
+.thin-black-border {
+  border-color: black;
+  border-style: solid;
+  border-width: 10px;
+}
+#Pic1{
+  max-width: 50%;
+}
+#Pic2{
+  max-width: 40%;
+}
+p {
+  text-align: center;
+}
+
